@@ -35,6 +35,9 @@ The dataset includes 20 features, which capture various attributes related to cu
 
 The objective of this dataset is to build a predictive model that can accurately classify customers into two groups: those likely to churn and those likely to stay. This can help telecom companies retain customers by identifying at-risk customers and addressing their concerns before they leave.
 
+### Contributors
+[Mahesh Ushir](https://github.com/Maheshushir)
+
 ## Churn Prediction
 
 Churn prediction is an essential area in customer relationship management (CRM) and is widely used in industries like telecom, banking, and insurance. In this dataset, "churn" is defined as a customer leaving the service. By analyzing the factors that contribute to churn, companies can develop targeted marketing campaigns, improve service quality, or make necessary adjustments to their pricing and support strategies.
