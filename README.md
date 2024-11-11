@@ -53,4 +53,4 @@ Churn prediction is an essential area in customer relationship management (CRM) 
 By using this dataset, you can experiment with various machine learning algorithms and techniques to gain insights into customer behavior and the factors leading to churn. This can ultimately help improve customer retention and increase business revenue.
 
 
-Link to the deployed App:- https://telecomechurnprediction-7prokjhha4796ddws2pcxj.streamlit.app/
+Link to the deployed App:- [App](https://telecomechurnprediction-7prokjhha4796ddws2pcxj.streamlit.app/)
